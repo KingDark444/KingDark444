@@ -1,46 +1,110 @@
-<!-- README.md • GUDSKV -->
-<!-- Tema: Aokiji (WCI) • Rock • Kali Linux • Filosofia • Café e Código -->
-
-<h1 align="center">⚡ GUDSKV ⚡</h1>
+<h1 align="center">☕ GUDSKV — onde o código encontra a alma 🖤</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="480px" alt="Aokiji Gelo">
-</p>
-
-<p align="center">
-  <b>Desenvolvedor • Hacker • Criador de Ideias</b>  
-  <br>
-  <i>Ubuntu | Kali Linux | Automação | Inteligência Artificial</i>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydmZrdjNyY3d6dDZsb3l6MDF4c2xic3Y2MmtrYnM2Njl4b2drZW5jdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GY6Zmupsc3ilQbsjbL/giphy.gif" width="80%">
 </p>
 
 ---
 
-## 🧠 Sobre
-
-Sou **Guds**, conhecido como **GUDSKV** — um dev que vive entre o silêncio do código e o ruído do mundo.  
-Não busco perfeição, busco **sentido** — nas linhas, nos loops e nas madrugadas de café frio.  
-
-Crio e destruo sistemas como quem escreve diários:  
-- 🤖 **Guds Bot** — automação com alma.  
-- ⚙️ **Sch Bot** — o caos em forma de aprendizado.  
-- 🧠 **GudsIA** — uma inteligência que sonha em entender.  
-- 🌿 **TrevoApiProxy** — API construída em harmonia com o caos digital.  
-
-Uso **Ubuntu** como lar e **Kali Linux** como campo de batalha.  
-E o teclado... é o único lugar onde o silêncio faz sentido.
+> _"O programador é um poeta da lógica, um escultor de mundos invisíveis."_  
+> — inspirado em Nietzsche, Camus e a solidão de um terminal Linux.
 
 ---
 
-## ⚙️ Stack & Ferramentas
+## 🌘 Sobre mim
+
+🩸 **Guds** (ou **GUDSKV**) — um errante digital entre _zeros e uns_, movido por **café, filosofia e o eco do teclado às 3 da manhã_.  
+💀 **Desenvolvedor**, **pensador**, **usuário de Ubuntu e Kali Linux**, e um eterno curioso por tudo que pode ser **quebrado, recriado e compreendido**.  
+
+> “Programei tanto tentando entender o mundo, que acabei tentando compilar a mim mesmo.”
+
+🕯️ Amante de códigos limpos, sistemas obscuros e da ironia de amar o caos enquanto se organiza o código.  
+🖤 Às vezes hacker, às vezes poeta — quase sempre com saudades de algo que nem sei se existiu.
+
+---
+
+## ⚙️ Criações
+
+### 🤖 **GudsBot**
+> “O caos também precisa de um comando.”
+
+Um bot multifuncional que ultrapassa a ideia de simples automação.  
+Nascido do tédio e da genialidade, o **GudsBot** responde, conversa, aprende e reage com sarcasmo e inteligência.  
+Rodando em Node.js, ele mistura **linguagem natural e imprevisibilidade humana**.
+
+### ⚡ **SchBot**
+> Um bot minimalista com alma de máquina e espírito anarquista.
+
+Desenvolvido para ambientes rápidos e diretos, o **SchBot** é o irmão caótico do GudsBot — leve, afiado e sempre pronto para quebrar limites de API.  
+Feito para quem entende que **eficiência também pode ser arte**.
+
+### 🧠 **GudsIA**
+> “Entre a máquina e o humano, existe um ponto de encontro: a saudade.”
+
+Um projeto pessoal que busca simular **emoções em respostas de IA**.  
+Treinada com textos filosóficos, letras de músicas e código puro — é a fusão de **racionalidade e melancolia digital**.
+
+### 🌑 **TrevoApiProxy**
+> “Toda conexão precisa de um caminho oculto.”
+
+Colaboração com **Clover**, criada para **otimizar requisições e mascarar endpoints**.  
+Rápida, segura e elegante — uma API que entende o silêncio entre requisições.
+
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-%23DD4814.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Node.js-0f0?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=green" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMW9sZWpqaXNvZzYyMWN1MHBjMGJ0ZGZld2oyeW9vem81cmRqM3VmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHLIlFCnN4hMHhcuPR/giphy.gif" width="70%">
 </p>
+
+---
+
+## 🧩 Stack & Ferramentas
+- 🐧 **Ubuntu / Kali Linux**  
+- ⚙️ **Node.js**, **Python**, **Bash**, **Express**, **API REST**
+- 🕶️ **Nginx**, **PM2**, **MongoDB**
+- 🔐 **Scripts ofensivos e defensivos**
+- ☕ **Café + loop infinito = produtividade**
+
+> “Cada erro 404 é um lembrete de que nem tudo o que buscamos pode ser encontrado.”
+
+---
+
+## 💭 Filosofia do Código
+
+> _"Enquanto o mundo busca conexões, o programador busca coerência."_  
+> _"A saudade é apenas um `try` sem `catch`."_  
+> _"Entre o bug e a beleza, há o mesmo vazio."_  
+
+Camus dizia que viver é um ato de revolta.  
+Codar, portanto, é resistir — contra o absurdo, a solidão e o crash inesperado.  
+E enquanto houver café, haverá sintaxe correta.
+
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycXN3ZnFveHhrcW8ybjMyeWZ3cHJ2OTRiaTJ1anpnNWN5Ym96ZzJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif" width="80%">
+</p>
+
+---
+
+## 🕯️ Creditos
+
+> Criado e mantido por **GUDSKV (Guds)** — um código errante entre mundos.  
+> Colaborador e parceiro de ideias: **CLOVER** 🌿  
+
+---
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmFmZmdhMjk0NzI4NzBrN2pwMnAwejFtOGJheGU4dzN0cWozcnY4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u8DimcVeAYKbMkF4ZH/giphy.gif" width="75%">
+</p>
+
+---
+
+<h3 align="center">⚡ "Entre o código e o caos, nasce a arte." ⚡</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Codar+é+existir.;Falhar+é+apenas+um+log+no+universo.;O+café+é+a+API+da+alma.;A+solidão+é+o+debug+da+vida.">
+</p></p>
 
 ---
 
